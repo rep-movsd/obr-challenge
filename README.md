@@ -8,7 +8,8 @@ Abidjan=-1.3/25.1/58.5
 Abéché=7.1/29.0/50.9
 Accra=-6.6/25.4/52.8
 Addis Ababa=-18.6/15.7/41.9
-Adelaide=-8.6/17.0/46.0```
+Adelaide=-8.6/17.0/46.0
+```
 
 The sample data from https://github.com/gunnarmorling/1brc/tree/main/src/test/resources/samples is included with suitable changes.
 
