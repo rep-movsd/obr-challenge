@@ -15,6 +15,6 @@ The sample data from https://github.com/gunnarmorling/1brc/tree/main/src/test/re
 
 Submit your solution as a PR
 
-Each language will have a folder for serial and parallel implementations e.g cpp, cpp-parallel. Benchmarking will be done on my machine or maybe on some cloud machine and leaderboards 
+Each language will have a folder for serial and parallel implementations e.g cpp, cpp-parallel. Benchmarking will be done on my machine or maybe on some cloud machine and leaderboards will be updated once in a while
 
 TODO: Add more instructions for testing/verifying/timing
